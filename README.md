@@ -119,3 +119,9 @@
 	package.json
 	webpack.config.js
 ```
+
+# Задание 2
+
+Ссылка на диаграмму: https://drive.google.com/file/d/1vo49bEJFhy_cZp_pm8MwQwLqa_a0UfRX/view?usp=sharing
+
+Ссылка на описание: https://telegra.ph/Opisanie-resheniya-10-15
